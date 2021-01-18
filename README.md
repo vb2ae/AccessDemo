@@ -5,7 +5,7 @@ I saw a question on Microsof docs Q&A site about an error when getting data from
 
 First I created a .net 5.0 windows forms app.   Then I added the NuGet Package System.Data.OleDb.  
 
-![NuGet Package Manager](/images/oledb.PNG) 
+![NuGet Package Manager](/images/oledb.png) 
 
 Then you can add some code to load the database into a data table
 
